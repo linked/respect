@@ -15,11 +15,22 @@ Fixing The System
 Today, nearly all democratic process in the world is that of Representative Democracy. The problem with existing systems, without question, is the susceptibility of our representatives to coercion (misrepresentation) and the large margin for inaccuracy or outright fraud in the voting process (undesirable winner), coupled with low voter participation (small sample size). A new solution is needed, incorporating strong identity verification, a global public registry of vote actions, and methods of assigning your votes (or right to abstain) to an arbiter or politico of your choice.
 
 I propose a system, let's call it iVote.com (for example's sake):
-It uses the RealID initiative to allow constituents to register for a single Verified Citizen profile on iVote.com. Every citizen can have exactly one.
-It leverages popular blockchain technology to keep a ledger of all Votes in a Proposal, as well as all changes and history of each Proposal text.
-If you don't want to Vote on a Proposal, you can use the Respect Matrix to delegate your decision to someone you respect.
-It runs at iVote.com s a nationwide software-as-a-service, or optionally self-hosted by any government, municipality, club, group or even an individual themself that wants to bring transparency to their proceedings.
-It is open-source, freely licensed and belonging to humanity. APIs and mobile phone apps are obvious musts, as are fully public records of all blockchain activity.
+
+ - It uses the RealID initiative to allow constituents to register for a
+   single Verified Citizen profile on iVote.com. Every citizen can have
+   exactly one.
+ - It leverages popular blockchain technology to keep a ledger of all
+   Votes in a Proposal, as well as all changes and history of each
+   Proposal text.
+ - If you don't want to Vote on a Proposal, you can use the Respect
+   Matrix to delegate your decision to someone you respect.
+ - It runs at iVote.com s a nationwide software-as-a-service, or
+   optionally self-hosted by any government, municipality, club, group
+   or even an individual themself that wants to bring transparency to
+   their proceedings.
+ - It is open-source, freely licensed and belonging to humanity. APIs
+   and mobile phone apps are obvious musts, as are fully public records
+   of all blockchain activity.
 
 The Adoption Problem
 --------------------
