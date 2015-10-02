@@ -3,7 +3,7 @@ Proposal For Implementation Of Respect Algorithm
 
 9/22/15 by Lee Bailey
 
-The respect matrix algorithm as proposed is a good solution for a fair swarm-voting protocol; to some, the implementation possibilities, but to others they may not be so clear.
+The respect matrix algorithm as proposed is a good solution for a fair swarm-voting protocol; to some, the implementations of such a protocol may be obvious, but to others they may not be so clear.
 
 My proposal for one such implementation follows, with a broad goal of building a constituency voting platform that uses blockchain, respect matrix and RealID technologies to bring the democratic process into the 21st century, minimizing or eliminating two of the greatest attack vectors against American liberty today -- political corruption and voter fraud.
 
