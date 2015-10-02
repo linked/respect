@@ -24,10 +24,10 @@ I propose a system, let's call it iVote.com (for example's sake):
    Proposal text.
  - If you don't want to Vote on a Proposal, you can use the Respect
    Matrix to delegate your decision to someone you respect.
- - It runs at iVote.com s a nationwide software-as-a-service, or
-   optionally self-hosted by any government, municipality, club, group
-   or even an individual themself that wants to bring transparency to
-   their proceedings.
+ - It could be hosted at *for example* "iVote.com" as nationwide software-as-a-service, or
+   optionally self-hosted by any government (VoteBritian.co.uk), municipality (sandiego.ca.gov),
+   club (troop123.boyscouts.com), group (bookclub.com) or even an individual themself (berniesanders.com)
+   that wants to bring transparency to their proceedings.
  - It is open-source, freely licensed and belonging to humanity. APIs
    and mobile phone apps are obvious musts, as are fully public records
    of all blockchain activity.
